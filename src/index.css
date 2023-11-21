@@ -1,0 +1,13 @@
+#navbar{
+    display: grid;
+    grid-template-columns: 33% 34% 33%;
+    text-align: center;
+}
+
+#signup-link{
+    margin-left: 1rem;
+}
+
+#signin-link{
+    margin-left: 1rem;
+}
